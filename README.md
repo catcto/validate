@@ -1,4 +1,4 @@
-#validate java android
+#Validation library for Java/Android
 
 ```java
 ValidateHelper vp = new ValidateHelper();
